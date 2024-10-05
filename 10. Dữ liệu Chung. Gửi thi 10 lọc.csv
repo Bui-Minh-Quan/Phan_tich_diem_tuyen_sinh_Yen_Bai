@@ -1,8 +1,8 @@
 ﻿
-TT,Số báo danh,"CMND/CCCD/
-Mã ĐDCN",Họ tên thí sinh,Họ và tên thí sinh,,Giới tính,Dân tộc,Ngày tháng năm sinh,,,Ngày sinh,"Nơi sinh
-(huyện, tỉnh) ","Nơi thường trú
-(Thôn, xã, huyện, tỉnh) ","Huyện/ TX/TP
+TT,Số báo danh,CMND/CCCD/
+Mã ĐDCN,Họ tên thí sinh,Họ và tên thí sinh,,Giới tính,Dân tộc,Ngày tháng năm sinh,,,Ngày sinh,Nơi sinh
+(huyện, tỉnh),Nơi thường trú
+(Thôn, xã, huyện, tỉnh) ,"Huyện/ TX/TP
 (Nơi HS học cấp THCS)",Học sinh trường,,,,Đối tượng ưu tiên,,,Điểm Ưu tiên,Tuyển thẳng,Đối tượng tuyển thẳng,Ghi chú,"Mã ĐV
 ĐKDT",Điểm thi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,Ngày,Tháng,Năm,,,,,,DTNT,NV1,NV2,Nhóm ĐT 1,Nhóm ĐT 2,Nhóm ĐT 3,,,,,,Ngữ văn,Toán ,Anh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
