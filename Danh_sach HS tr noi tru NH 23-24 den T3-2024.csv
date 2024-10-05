@@ -1,0 +1,283 @@
+﻿STT,Mã định danh,Họ tên,Ngày sinh,Giới tính,Dân tộc,Xã/Phường,Tổ/thôn Hộ khẩu thường trú,Lớp học,Chỗ ở hiện nay
+1,1523331661,Hảng Thị Ca,19/03/2012,Nữ,HMông,Xã Bản Mù,Thôn Tà Ghênh,6A,"Thôn Tà Ghênh, Xã Bản Mù, Huyện Trạm Tấu, Tỉnh Yên Bái"
+2,1580860477,Lường Văn Cường,05/10/2012,Nam,Thái,Xã Pá Hu,Cang Dông,6A,"Thôn Cang Dông, xã Pá Hu, Trạm Tấu, Tỉnh Yên Bái"
+3,1523355375,Sùng A Giàng,19/02/2012,Nam,HMông,Xã Bản Mù,Thôn Tà Ghênh,6A,"Thôn Tà Ghênh, Xã Bản Mù, Huyện Trạm Tấu, Tỉnh Yên Bái"
+4,1522831267,Văn Hữu Hải,28/12/2012,Nam,Tày,Thị trấn Trạm Tấu,Tổ dân phố số 2,6A,"Tổ dân phố số 2, Thị trấn Trạm Tấu, Huyện Trạm Tấu, Tỉnh Yên Bái"
+5,1580860479,Trang Thị Hàng,07/02/2012,Nữ,HMông,Xã Bản Mù,Thôn Giàng La Pán,6A,"Thôn Giàng La Pán, xã Bản Mù, Huyện Trạm Tấu, Tỉnh Yên Bái"
+6,1580865590,Hà Vũ An Huy,30/03/2012,Nam,Tày,Thị trấn Trạm Tấu,Tổ dân phố số 1,6A,"Tổ dân phố số 1, Thị trấn Trạm Tấu , Huyện Trạm Tấu, Tỉnh Yên Bái"
+7,1522831572,Hoàng Minh Khôi,19/12/2012,Nam,Thái,Thị trấn Trạm Tấu,Thị trấn Trạm Tấu,6A,"Thị trấn Trạm Tấu,  Huyện Trạm Tấu, Tỉnh Yên Bái"
+8,1521076344,Lò Thị Hà Lan,11/03/2012,Nữ,Thái,Xã Hát Lìu,Thôn Hát 1,6A,"Thôn Hát 1, xã Hát Lừu, Huyện Trạm Tấu, Tỉnh Yên Bái"
+9,1522831285,Hoàng Diệu Linh,21/05/2012,Nữ,Thái,Xã Hát Lìu,Thôn Vũng Tầu,6A,"Thôn Vũng Tầu, xã Hát Lừu, Huyện Trạm Tấu, Tỉnh Yên Bái"
+10,1521290393,Lò Nhật Linh,29/03/2012,Nữ,Thái,Xã Hát Lìu,Thôn Hát 2,6A,"Thôn Hát 2,  xã Hát Lừu, Huyện Trạm Tấu, Tỉnh Yên Bái"
+11,1521053131,Vàng Thị Mảy Linh,20/09/2012,Nữ,HMông,Xã Pá Hu,Thôn Pá Hu,6A,"Thôn Pá Hu, xã Pá Hu, huyện Trạm Tấu, Tỉnh Yên Bái"
+12,1580860480,Sùng A Lo,16/03/2012,Nam,HMông,Xã Pá Hu,Thôn Tà Tầu,6A,"Thôn Tà Tầu, xã Pá Hu, Huyện Trạm Tấu, tỉnh Yên Bái"
+13,1521086703,Giàng Thành Long,25/06/2012,Nam,HMông,Xã Trạm Tấu,Thôn Km 14+17,6A,"Xã Trạm Tấu, huyện Trạm Tấu, Tỉnh Yên Bái"
+14,1580860481,Giàng A Lứ,26/11/2012,Nam,HMông,Xã Bản Mù,Thôn Tà Ghênh,6A,"Thôn Tà Ghênh, Xã Bản Mù, Huyện Trạm Tấu, Tỉnh Yên Bái"
+15,1522831860,Lò Quỳnh Mai,11/09/2012,Nữ,Thái,Thị trấn Trạm Tấu,Tổ dân phố số 2,6A,"Tổ dân phố số 2, Thị trấn Trạm Tấu, huyện Trạm Tấu, Tỉnh Yên Bái"
+16,1580867961,Lò Đức Mạnh,15/08/2012,Nam,Thái,Thị trấn Trạm Tấu,Tổ dân phố số 2,6A,"Tổ dân phố số 2, Thị trấn Trạm Tấu, huyện Trạm Tấu, Tỉnh Yên Bái"
+17,1580860482,Giàng Thị Máy,07/04/2012,Nữ,HMông,Xã Bản Mù,Thôn Khấu Ly,6A,"Thôn Khấu Ly, xã Bản Mù, Huyện Trạm Tấu, Tỉnh Yên Bái"
+18,1521086708,Giàng Công Minh,28/03/2012,Nam,HMông,Xã Trạm Tấu,Thôn Km 14+17,6A,"Xã Trạm Tấu, huyện Trạm Tấu, Tỉnh Yên Bái"
+19,1521856447,Thào Thị Mò,30/11/2012,Nữ,HMông,Xã Pá Lau,Thôn Giao Chu,6A,"Thôn Giao Chu, Xã Pá Lau, Huyện Trạm Tấu, tỉnh Yên Bái"
+20,1521290399,Lò Văn Nghị,23/01/2012,Nam,Thái,Xã Hát Lìu,Thôn Hát 2,6A,"Thôn Hát 2, xã Hát Lừu, Huyện Trạm Tấu, Tỉnh Yên Bái"
+21,1521081891,Lường Bích Ngọc,02/03/2012,Nữ,Thái,Xã Hát Lìu,Thôn Vũng Tầu,6A,"Thôn Vũng Tàu, xã Hát Lừu, Huyện Trạm Tấu, Tỉnh Yên Bái"
+22,1521119219,Lầu Thị Nguyệt,25/09/2012,Nữ,HMông,Xã Trạm Tấu,Thôn Km 14+17,6A,"Xã Trạm Tấu, huyện Trạm Tấu, Tỉnh Yên Bái"
+23,1522831460,Lường Tâm Như,04/12/2012,Nữ,Thái,Thị trấn Trạm Tấu,Tổ dân phố số 1,6A,"Tổ dân phố số 1, Thị trấn Trạm Tấu, Huyện Trạm Tấu, Tỉnh Yên Bái"
+24,1552047479,Mùa A Páo,10/01/2012,Nam,HMông,Xã Bản Mù,Thôn Mông Xi,6A,"Thôn Mông Xi, Xã Bản Mù, Huyện Trạm Tấu, Tỉnh Yên Bái"
+25,1552047480,Hảng A Phủa,27/04/2012,Nam,HMông,Xã Bản Mù,Thôn Tà Ghênh,6A,"Thôn Tà Ghênh, Xã Bản Mù, Huyện Trạm Tấu, Tỉnh Yên Bái"
+26,1523341060,Giàng Văn Phúc,06/03/2012,Nam,HMông,Xã Bản Mù,Thôn Tà Ghênh,6A,"Thôn Tà Ghênh, Xã Bản Mù, Huyện Trạm Tấu, Tỉnh Yên Bái"
+27,1580860484,Lầu Thị Thu Phương,14/10/2012,Nữ,HMông,Xã Trạm Tấu,Thôn Km 14+17,6A,"Xã Trạm Tấu, huyện Trạm Tấu, Tỉnh Yên Bái"
+28,1522972976,Lò Ngọc Sâm,21/04/2012,Nam,Thái,Xã Hát Lìu,Thôn Lừu 1,6A,"Thôn Lừu 1, Xã Hát Lừu, Huyện Trạm Tấu, Tỉnh Yên Bái"
+29,1523348890,Hờ A Thái,10/11/2012,Nam,HMông,Xã Bản Mù,Thôn Giàng La Pán,6A,"Thôn Giàng La Pán, xã Bản Mù, Huyện Trạm Tấu, Tỉnh Yên Bái"
+30,1523331671,Hảng Hoàng Thịnh,05/06/2012,Nam,HMông,Xã Bản Mù,Thôn Tà Ghênh,6A,"Thôn Tà Ghênh, Xã Bản Mù, Huyện Trạm Tấu, Tỉnh Yên Bái"
+31,1522603186,Lò Văn Tuyến,06/05/2012,Nam,Thái,Xã Hát Lìu,Thôn Lừu 1,6A,"Thôn Lừu 1, Xã Hát Lừu, Huyện Trạm Tấu, Tỉnh Yên Bái"
+32,1522831491,Chảo Ánh Tuyết,05/03/2012,Nữ,HMông,Thị trấn Trạm Tấu,Tổ dân phố số 1,6A,"Tổ dân phố số 1, Thị trấn Trạm Tấu, Huyện Trạm Tấu, Tỉnh Yên Bái"
+33,1521856431,Thào A Vàng,29/10/2012,Nam,HMông,Xã Pá Lau,Thôn Tàng Ghênh,6A,"Thôn Tàng Ghênh, Xã Pá Lau, Huyện Trạm Tấu, Tỉnh Yên Bái"
+34,1580860485,Sùng A Xeng,18/08/2012,Nam,HMông,Xã Pá Hu,Thôn Pá Hu,6A,"Thôn Pá Hu, Pá Hu, Xã Pá Hu, Huyện Trạm Tấu, Tỉnh Yên Bái"
+35,1580860486,Hờ Thị Xư,17/01/2012,Nữ,HMông,Xã Bản Mù,Thôn Tà Ghênh,6A,"Thôn Tà Ghênh, xã Bản Mù, Huyện Trạm Tấu, Tỉnh Yên Bái"
+36,1521856395,Thào Thị Chi,13/01/2012,Nữ,HMông,Xã Pá Lau,Thôn Háng Tây,6B,"Thôn Háng Tây, xã Pá Lau, huyện Trạm Tấu, tỉnh Yên Bái"
+37,1521053067,Sùng A Chú,26/01/2012,Nam,HMông,Xã Trạm Tấu,Thôn Tấu Trên,6B,"Thôn Tấu Trên, Xã Trạm Tấu, huyện Trạm Tấu, tỉnh Yên Bái"
+38,1525438828,Hờ Thị Công,05/05/2012,Nữ,HMông,Xã Bản Công,Thôn Tà Chử,6B,"Thôn Tà Chử, xã Bản Công, huyện Trạm Tấu, tỉnh Yên Bái"
+39,1523532993,Hờ A Cường,16/04/2012,Nam,HMông,Xã Xà Hồ,Thôn Trống Khua,6B,"Thôn Trống Khua, xã Xà Hồ, huyện Trạm Tấu, tỉnh Yên Bái"
+40,1521856397,Sùng Thị Dâu,15/10/2010,Nữ,HMông,Xã Pá Lau,Thôn Tàng Ghênh,6B,"Thôn Tàng Ghênh, xã Pá Lau, huyện Trạm Tấu, tỉnh Yên Bái"
+41,1521856401,Vàng Thị Dùa,10/10/2012,Nữ,HMông,Xã Pá Lau,Thôn Pá Lau,6B,"Thôn Pá Lau, xã Pá Lau, huyện Trạm Tấu, tỉnh Yên Bái"
+42,1580704211,Lò Đức Hảo,05/10/2012,Nam,Thái,Xã Hát Lìu,Thôn Hát 2,6B,"Thôn Hát 2, xã Hát Lìu, huyện Trạm Tấu, tỉnh Yên Bái"
+43,1521290368,Lò Thị Hằng,05/02/2012,Nữ,Thái,Xã Hát Lìu,Thôn Hát 2,6B,"Thôn Hát 2, xã Hát Lìu, huyện Trạm Tấu, tỉnh Yên Bái"
+44,1580860866,Giàng Thái Hồ,27/12/2012,Nam,HMông,Xã Xà Hồ,Thôn Sáng Pao,6B,"Thôn Sáng Pao, xã Xà Hồ, huyện Trạm Tấu, tỉnh Yên Bái"
+45,1580703298,Giàng Thị Khang Huế,18/04/2012,Nữ,HMông,Xã Bản Công,Thôn Kháo Chu,6B,"Thôn Kháo Chu, xã Bản Công, huyện Trạm Tấu, tỉnh Yên Bái"
+46,1580860869,Mùa A Kiên,24/04/2012,Nam,HMông,Xã Pá Hu,Thôn Háng Gàng,6B,"Thôn Háng Gàng, xã Pá Hu, huyện Trạm Tấu, tỉnh Yên Bái"
+47,1526297097,Thào Ngọc Khánh,04/01/2012,Nam,HMông,Xã Bản Công,Thôn Sán Trá,6B,"Thôn Sán Trá, xã Bản Công, huyện Trạm Tấu, tỉnh Yên Bái"
+48,1520323986,Thào Thị Linh,13/05/2012,Nữ,HMông,Xã Túc Đán,Thôn Háng Tàu,6B,"Thôn Háng Tàu, xã Túc Đán, , huyện Trạm Tấu, tỉnh Yên Bái"
+49,1580860870,Sùng Bảo Minh,19/06/2012,Nam,HMông,Xã Pá Hu,Thôn Tà Tàu,6B,"Thôn Tà Tàu, xã Pá Hu, huyện Trạm Tấu, tỉnh Yên Bái"
+50,1521856410,Thào Phành Mông,18/10/2012,Nam,HMông,Xã Pá Lau,Thôn Giao Lâu,6B,"Thôn Giao Lâu, xã Pá Lau, huyện Trạm Tấu, tỉnh Yên Bái"
+51,1522831875,Phạm Trà My,20/09/2012,Nữ,Kinh,Xã Bản Công,Thôn Tà Xùa,6B,"Thôn Tà Xùa, xã Bản Công, huyện Trạm Tấu, tỉnh Yên Bái"
+52,1526077542,Giàng Thị May,03/06/2012,Nữ,HMông,Xã Bản Công,Thôn Bản công,6B,"Thôn Bản công, xã Bản Công -huyện Trạm Tấu, tỉnh Yên Bái"
+53,1580703299,Thào Thị Mảy,07/12/2012,Nữ,HMông,Xã Xà Hồ,Thôn Suối Giao,6B,"Thôn Suối Giao, xã Xà Hồ, huyện Trạm Tấu, tỉnh Yên Bái"
+54,1523348841,Giàng Thị Mo,03/02/2012,Nữ,HMông,Xã Bản Mù,Thôn Khấu Ly,6B,"Thôn Khấu Ly, xã Bản Mù, huyện Trạm Tấu, tỉnh Yên Bái"
+55,1580704212,Đồng Thị Tuyết Ngọc,15/10/2012,Nữ,Thái,Xã Hát Lìu,Thôn Hát 1,6B,"Thôn Hát 1, xã Hát Lìu, huyện Trạm Tấu, tỉnh Yên Bái"
+56,1526310717,Thào A Phòng,22/03/2012,Nam,HMông,Xã Bản Công,Thôn Sán Trá,6B,"Thôn Sán Trá, xã Bản Công, huyện Trạm Tấu, tỉnh Yên Bái"
+57,1526306558,Giàng Thị Phông,04/07/2012,Nữ,HMông,Xã Bản Công,Thôn Bản Công,6B,"Thôn Bản Công, xã Bản Công, huyện Trạm Tấu, tỉnh Yên Bái"
+58,1526329996,Sùng Ngọc Phượng,11/02/2012,Nữ,HMông,Xã Bản Công,Thôn Tà Xùa,6B,"Thôn Tà Xùa, xã Bản Công, huyện Trạm Tấu, tỉnh Yên Bái"
+59,1580703300,Mùa Pàng Rang,07/07/2012,Nữ,HMông,Xã Pá Hu,Thôn Háng Gàng,6B,"Thôn Háng Gàng, xã Pá Hu, huyện Trạm Tấu, tỉnh Yên Bái"
+60,1521856439,Thào Thị Súa,20/01/2012,Nữ,HMông,Xã Pá Lau,Thôn Pá Lau,6B,"Thôn Pá Lau, xã Pá Lau, huyện Trạm Tấu, tỉnh Yên Bái"
+61,1526343459,Phàng Thị Sa,02/04/2012,Nữ,HMông,Xã Bản Công,Thôn Tà Xùa,6B,"Thôn Tà Xùa, xã Bản Công, huyện Trạm Tấu, tỉnh Yên Bái"
+62,1523930339,Giàng A Sáy,19/02/2012,Nam,HMông,Xã Bản Mù,Thôn Giàng La Pàn,6B,"Thôn Giàng La Pàn, xã Bản Mù, huyện Trạm Tấu, tỉnh Yên Bái"
+63,1523346040,Trang Thị Súa,19/07/2012,Nữ,HMông,Xã Bản Mù,Thôn Mù Cao,6B,"Thôn Mù Cao, xã Bản Mù, huyện Trạm Tấu, tỉnh Yên Bái"
+64,1580703301,Mùa Thị Tâu,21/04/2012,Nữ,HMông,Xã Pá Hu,Thôn Háng Gàng,6B,"Thôn Háng Gàng, xã Pá Hu, huyện Trạm Tấu, tỉnh Yên Bái"
+65,1521119230,Sùng Minh Thành,25/05/2012,Nam,HMông,Xã Trạm Tấu,Thôn Tấu Trên,6B,"Thôn Tấu Trên, xã Trạm Tấu, huyện Trạm Tấu, tỉnh Yên Bái"
+66,1526352000,Giàng Chí Thành,14/09/2012,Nam,HMông,Xã Bản Công,Thôn Bản Công,6B,"Thôn Bản Công, xã Bản Công, huyện Trạm Tấu, tỉnh Yên Bái"
+67,1521086719,Giàng Xuân Trung,16/11/2012,Nam,HMông,Xã Trạm Tấu,Thôn Tấu Dưới,6B,"Thôn Tấu Dưới, Xã Trạm Tấu huyện Trạm 'Tấu, tỉnh Yên Bái"
+68,1521086722,Thào Văn Xuân,18/11/2012,Nam,HMông,Xã Trạm Tấu,Thôn Mo Nhang,6B,"Thôn Mo Nhang, xã Trạm Tấu,  huyện Trạm Tấu, tỉnh Yên Bái"
+69,1574491032,Giàng A Chú,28/02/2011,Nam,HMông,Xã Pá Hu,Tà Tàu,7A,Thôn Tà Tàu - xã Pá Hu - huyện Trạm Tấu - tỉnh Yên Bái
+70,1574489646,Hờ Thị Du,15/11/2011,Nữ,HMông,Xã Bản Công,Tà Xùa,7A,Thôn Tà Xùa - xã Bản Công - huyện Trạm Tấu - tỉnh Yên Bái
+71,1538229746,Giàng Thị Dung,05/07/2011,Nữ,HMông,Xã Trạm Tấu,Trạm Tấu,7A,Xã Trạm Tấu huyện Trạm Tấu
+72,1574489647,Giàng Thị Đề,28/02/2011,Nữ,HMông,Xã Pá Lau,Thôn Háng Tây,7A,Pá Lau - Trạm Tấu - Yên Bái
+73,1562376958,Lường Thị Ngân Hà,13/07/2011,Nữ,Thái,Xã Pá Hu,Cang Dông,7A,Cang Dông - Pá Hu - huyện Trạm Tấu - tỉnh Yên Bái
+74,1574489648,Thào Minh Hằng,19/02/2011,Nữ,HMông,Xã Pá Hu,Pá Hu,7A,Xã Trạm Tấu huyện Trạm Tấu
+75,1503159825,Thào Thị Hoa,17/02/2011,Nữ,HMông,Xã Trạm Tấu,Trạm Tấu,7A,Xã Trạm Tấu huyện Trạm Tấu
+76,1574491034,Đồng Duy Khánh,08/04/2011,Nam,Thái,Xã Pá Lau,Pá Lau,7A,Thôn Pá Lau xã Pá Lau - huyện Trạm Tấu - tỉnh Yên Bái
+77,1574491036,Phàng A Khua,06/11/2011,Nam,HMông,Xã Bản Công,Tà Xùa,7A,Thôn Tà Xùa - xã Bản Công - huyện Trạm Tấu - tỉnh Yên Bái
+78,1574489649,Vũ Minh Kỳ,20/01/2011,Nam,Kinh,Xã Bản Công,,7A,"Thôn Tà Xùa, xã Bản Công, huyện Trạm Tấu, tỉnh Yên Bái"
+79,1503159824,Mùa Thị Hoa Lan,10/12/2011,Nữ,HMông,Xã Trạm Tấu,Trạm Tấu,7A,Xã Trạm Tấu huyện Trạm Tấu
+80,1574489650,Giàng Thị Lê,22/07/2011,Nữ,HMông,Xã Pá Lau,Thôn Háng Tây,7A,Pá Lau - Trạm Tấu - Yên Bái
+81,1574491037,Phàng A Lo,19/01/2011,Nam,HMông,Xã Bản Công,Thôn Tà Xùa,7A,Thôn Tà Xùa - Xã Bản Công - Huyện Trạm Tấu - Tỉnh Yên Bái
+82,1502922786,Lò Phương Mai,24/11/2011,Nữ,Thái,Thị trấn Trạm Tấu,Tổ dân phố số 3,7A,"Tổ dân phố số 2, Thị trấn Trạm Tấu, Huyện Trạm Tấu"
+83,1574491038,Phàng Thị Xuân Mai,09/04/2011,Nữ,HMông,Xã Bản Công,Tà Xùa,7A,Thôn Tà Xùa - xã Bản Công - huyện Trạm Tấu - tỉnh Yên Bái
+84,1574491039,Thào A Sang Mua,19/05/2011,Nam,HMông,Xã Bản Công,Sán Trá,7A,Thôn Sán Trá - xã Bản Công - huyện Trạm Tấu - tỉnh Yên Bái
+85,1502936290,Nguyễn Tiến Ngọc,13/08/2011,Nam,Tày,Thị trấn Trạm Tấu,Tổ dân phố số 3,7A,Tổ dân phố số 1 Thị trấn Trạm Tấu huyện Trạm Tấu
+86,1574489652,Sùng A Nhà,13/08/2011,Nam,HMông,Xã Bản Mù,Tà Ghênh,7A,Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái
+87,1574489654,Giàng A Páo,01/03/2011,Nam,HMông,Xã Pá Lau,Thôn Giao Chu,7A,Pá Lau - Trạm Tấu - Yên Bái
+88,1574489655,Phàng Thị Phua,17/01/2011,Nữ,HMông,Xã Bản Công,Tà Xùa,7A,Thôn Tà Xùa - xã Bản Công - huyện Trạm Tấu - tỉnh Yên Bái
+89,1574491040,Lường Thị Thúy Phương,13/05/2011,Nữ,Thái,Xã Pá Hu,Pá Hu,7A,Thôn Cang Dông - xã Pá Hu  - huyện Trạm Tấu - tỉnh Yên Bái
+90,1574491041,Sùng Thị Sa,05/01/2011,Nữ,HMông,Xã Pá Hu,Pá Hu,7A,Thôn Tà Tàu - xã Pá Hu - huyện Trạm Tấu - tỉnh Yên Bái
+91,1503169055,Vàng Thị Sua,20/08/2011,Nữ,HMông,Xã Trạm Tấu,Trạm Tấu,7A,Xã Trạm Tấu huyện Trạm Tấu
+92,1574489656,Sùng A Súa,03/04/2011,Nam,HMông,Xã Bản Mù,Tà Ghênh,7A,Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái
+93,1503240262,Giàng Thị Tâu,09/10/2011,Nữ,HMông,Xã Bản Mù,Khấu Ly,7A,Thôn Khấu Ly - Xã Bản Mù - huyện Trạm Tấu - tỉnh Yên Bái
+94,1538229758,Sùng Thị Thảo,20/10/2011,Nữ,HMông,Xã Trạm Tấu,Trạm Tấu,7A,Xã Trạm Tấu huyện Trạm Tấu
+95,1574491044,Giàng A Tỉnh,20/02/2011,Nam,HMông,Xã Xà Hồ,Sáng Pao,7A,Sáng Pao - Xà Hồ - Trạm Tấu - YB
+96,1574491045,Thào A Tông,12/05/2011,Nam,HMông,Xã Bản Công,Sán Trá,7A,Thôn Sán Trá - xã Bản Công - huyện Trạm Tấu - tỉnh Yên Bái
+97,1523213210,Vàng A Tồng,12/01/2011,Nam,HMông,Xã Túc Đán,Háng Tầu,7A,Thôn Háng Tầu- Xã Túc Đán- huyện Trạm Tấu- tỉnh Yên Bái
+98,1574491046,Nguyễn Mạnh Tùng,14/08/2011,Nam,Mường,Xã Pá Hu,Pá Hu,7A,Thôn Tà Tàu - xã Pá Hu - huyện Trạm Tấu - tỉnh Yên Bái
+99,1574489657,Trang A Vàng,10/07/2011,Nam,HMông,Xã Bản Mù,Mù Thấp,7A,Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái
+100,1502991552,Chớ Tào Vảng,30/04/2011,Nam,HMông,Xã Xà Hồ,Sáng Pao,7A,Tà Ghênh - Sáng Pao
+101,1523213228,Lý Quang Vinh,16/04/2011,Nam,HMông,Xã Túc Đán,Háng Tầu,7A,Thôn Háng Tầu- Xã Túc Đán- huyện Trạm Tấu- tỉnh Yên Bái
+102,1574491047,Thào Quang Vinh,29/03/2011,Nam,HMông,Xã Pá Hu,Pá Hu,7A,Thôn Tà Tàu - xã Pá Hu - huyện Trạm Tấu - tỉnh Yên Bái
+103,1574489658,Giàng Thị Vùa,15/11/2011,Nữ,HMông,Xã Bản Công,Kháo Chu,7A,Thôn Kháo Chu - xã Bản Công - huyện Trạm Tấu - tỉnh Yên Bái
+104,1502988456,Phàng A Anh,21/02/2011,Nam,HMông,Xã Bản Mù,Bản Mù -Trạm Tấu-Yên Bái,7B,Bản Mù -Trạm Tấu-Yên Bái
+105,1574489659,Hảng A Bàng,05/01/2011,Nam,HMông,Xã Bản Mù,Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái,7B,Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái
+106,1551866402,Cứ Thị Bâu,23/05/2011,Nữ,HMông,,Xã Trạm Tấu huyện Trạm Tấu,7B,Xã Trạm Tấu huyện Trạm Tấu
+107,1502894075,Giàng Thị Ca,20/04/2011,Nữ,HMông,Xã Xà Hồ,Sáng Pao - Xà Hồ - Trạm Tấu - YB,7B,Sáng Pao - Xà Hồ - Trạm Tấu - YB
+108,1502983058,Hờ Thị Cang,19/05/2011,Nữ,HMông,Xã Bản Công,Thôn Tà Chử - xã Bản Công - huyện Trạm Tấu - tỉnh Yên Bái,7B,Thôn Tà Chử - xã Bản Công - huyện Trạm Tấu - tỉnh Yên Bái
+109,1574491048,Mùa Thị Chay,19/06/2011,Nữ,HMông,Xã Túc Đán,Tống Ngoài - Túc Đán - Yên Bái,7B,Tống Ngoài - Túc Đán - Yên Bái
+110,1574491049,Lý Thị Dì,01/03/2011,Nữ,HMông,Xã Túc Đán,Háng Tầu - Túc Đán - Trạm Tấu - Yên Bái,7B,Háng Tầu - Túc Đán - Trạm Tấu - Yên Bái
+111,1574491050,Giàng A Đông,10/02/2011,Nam,HMông,Xã Bản Mù,Bản Mù - Trạm Tấu - Yên Bái,7B,Bản Mù - Trạm Tấu - Yên Bái
+112,1574489661,Hờ A Đua,06/10/2011,Nam,HMông,Xã Xà Hồ,thôn Trống Khua xã Xà Hồ huyện Trạm Tấu tỉnh Yên Bái,7B,thôn Trống Khua xã Xà Hồ huyện Trạm Tấu tỉnh Yên Bái
+113,1503169046,Giàng Anh Đức,14/03/2011,Nam,HMông,,Xã Trạm Tấu huyện Trạm Tấu,7B,Xã Trạm Tấu huyện Trạm Tấu
+114,1574489663,Sùng A Gia,18/08/2011,Nam,HMông,Xã Bản Mù,Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái,7B,Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái
+115,1574491052,Mùa A Giáp,31/08/2011,Nam,HMông,Xã Xà Hồ,thôn Háng Xê xã Xà Hồ huyện Trạm Tấu tỉnh Yên Bái,7B,thôn Háng Xê xã Xà Hồ huyện Trạm Tấu tỉnh Yên Bái
+116,1574489664,Giàng A Gio,18/11/2011,Nam,HMông,Xã Bản Mù,Xã Bản Mù - Huyện Trạm Tấu-Tỉnh Yên Bái,7B,Xã Bản Mù - Huyện Trạm Tấu-Tỉnh Yên Bái
+117,1574489665,Hảng A Lâu,22/03/2011,Nam,HMông,Xã Bản Mù,Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái,7B,Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái
+118,1574491053,Mùa A Lềnh,07/08/2011,Nam,HMông,Xã Xà Hồ,thôn Háng Xê xã Xà Hồ huyện Trạm Tấu tỉnh Yên Bái,7B,thôn Háng Xê xã Xà Hồ huyện Trạm Tấu tỉnh Yên Bái
+119,1521983884,Hảng A Lềnh,12/04/2011,Nam,HMông,Xã Bản Mù,Thôn Mù Cao - Xã Bản Mù,7B,Thôn Mù Cao - Xã Bản Mù
+120,1503240253,Trang A Lông,20/10/2011,Nam,HMông,Xã Bản Mù,Thôn Mù Cao - Xã Bản Mù,7B,Thôn Mù Cao - Xã Bản Mù
+121,1574489666,Giàng A Lứ,21/01/2011,Nam,HMông,Xã Bản Mù,Xã Bản Mù - Huyện Trạm Tấu-Tỉnh Yên Bái,7B,Xã Bản Mù - Huyện Trạm Tấu-Tỉnh Yên Bái
+122,1502988511,Mùa A Lử,17/04/2011,Nam,HMông,Xã Xà Hồ,Xà Hồ-Trạm Tấu-Yên Bái,7B,Xà Hồ-Trạm Tấu-Yên Bái
+123,1574491054,Cứ Thị Mang,04/05/2011,Nữ,HMông,Xã Bản Mù,Xã Bản Mù - Huyện Trạm Tấu-Tỉnh Yên Bái,7B,Xã Bản Mù - Huyện Trạm Tấu-Tỉnh Yên Bái
+124,1574491055,Hảng A Mềnh,05/12/2011,Nam,HMông,Xã Bản Mù,Bản Mù - Trạm Tấu - Yên Bái,7B,Bản Mù - Trạm Tấu - Yên Bái
+125,1574489667,Hảng A Nu,01/10/2011,Nam,HMông,Xã Pá Lau,Pá Lau - Trạm Tấu - Yên Bái,7B,Pá Lau - Trạm Tấu - Yên Bái
+126,1502988517,Mùa Thị Rùa Pàng,28/01/2011,Nữ,HMông,Xã Xà Hồ,Xà Hồ-Trạm Tấu-Yên Bái,7B,Xà Hồ-Trạm Tấu-Yên Bái
+127,1574489668,Mùa Thị Phóng,13/05/2011,Nữ,HMông,Xã Bản Mù,Xã Bản Mù - Huyện Trạm Tấu-Tỉnh Yên Bái,7B,Xã Bản Mù - Huyện Trạm Tấu-Tỉnh Yên Bái
+128,1574491056,Giàng Thị Sao,22/02/2011,Nữ,HMông,Xã Bản Công,Thôn Bản Công - xã Bản Công - huyện Trạm Tấu - tỉnh Yên Bái,7B,Thôn Bản Công - xã Bản Công - huyện Trạm Tấu - tỉnh Yên Bái
+129,1574491057,Giàng A Su,16/02/2011,Nam,HMông,Xã Bản Mù,Bản Mù - Trạm Tấu - Yên Bái,7B,Bản Mù - Trạm Tấu - Yên Bái
+130,1502988533,Mùa Thị Sua,07/03/2011,Nữ,HMông,Xã Xà Hồ,Xà Hồ-Trạm Tấu-Yên Bái,7B,Xà Hồ-Trạm Tấu-Yên Bái
+131,1523213241,Vàng Thị Tâu,12/11/2011,Nữ,HMông,Xã Túc Đán,Thôn Háng Tầu- Xã Túc Đán- huyện Trạm Tấu- tỉnh Yên Bái,7B,Thôn Háng Tầu- Xã Túc Đán- huyện Trạm Tấu- tỉnh Yên Bái
+132,1503169056,Lưu Thanh Thảo,18/07/2011,Nữ,Kinh,,Xã Trạm Tấu huyện Trạm Tấu,7B,Xã Trạm Tấu huyện Trạm Tấu
+133,1574491058,Mùa Thị Huyền Trang,23/04/2011,Nữ,HMông,Xã Xà Hồ,thôn Trống Khua xã Xà Hồ huyện Trạm Tấu tỉnh Yên Bái,7B,thôn Trống Khua xã Xà Hồ huyện Trạm Tấu tỉnh Yên Bái
+134,1503114236,Hà Đình Tùng,27/05/2011,Nam,Thái,Xã Hát Lìu,Tổ dân phố số 3 - Thị trấn Trạm Tấu - Huyện Trạm Tấu - Tỉnh Yên Bái,7B,Tổ dân phố số 3 - Thị trấn Trạm Tấu - Huyện Trạm Tấu - Tỉnh Yên Bái
+135,1503165709,Giàng Thị Vùa,25/09/2011,Nữ,HMông,Xã Trạm Tấu,Xã Trạm Tấu- huyện Trạm Tấu,7B,Xã Trạm Tấu huyện Trạm Tấu
+136,1574491059,Mùa Thị Xinh,05/04/2011,Nữ,HMông,Xã Xà Hồ,Xà Hồ-Trạm Tấu-Yên Bái,7B,Xà Hồ-Trạm Tấu-Yên Bái
+137,1574489669,Xa Thị Như Ý,02/05/2011,Nữ,HMông,Xã Túc Đán,Pa Te - Túc Đán - Yên Bái,7B,Pa Te - Túc Đán - Yên Bái
+138,1574491043,Lò Thị Thơm,04/10/2011,Nữ,Thái,Xã Pá Hu,Pá Hu,7B,Thôn Cang Dông - xã Pá Hu  - huyện Trạm Tấu - tỉnh Yên Bái
+139,1502943348,Nguyễn Thị Minh An,13/08/2010,Nữ,Tày,Thị trấn Trạm Tấu,Tổ dân phố số 2,8A,Thị trấn Trạm Tấu
+140,1522832808,Hoàng Thị Phương Anh,18/01/2010,Nữ,Mường,Xã Bản Công,Thôn Tà Xùa,8A,"Xã Bản Công- huyện Trạm Tấu, tỉnh Yên Bái"
+141,1562506146,Thào Hoàng Anh,21/04/2010,Nam,HMông,Xã Pá Lau,Thôn Giao Chu,8A,Thôn Giao Chu- xã Pá Lau - Trạm Tấu - Yên Bái
+142,1521157372,Hoàng Thế Cường,30/06/2010,Nam,Thái,Xã Hát Lìu,Thôn Hát 1,8A,"Thôn Hát  1, xã Hát Lừu, huyện Trạm Tấu, tỉnh Yên Bái"
+143,1502946806,Giàng Thị Ánh Dương,18/04/2010,Nữ,HMông,Xã Bản Mù,Thôn Giàng La Pán,8A,"Thôn Giàng La Pán, Xã Bản Mù, Trạm Tấu"
+144,1562506148,Hoàng Nguyễn Ngọc Hà,06/10/2010,Nữ,Thái,Xã Hát Lìu,Thôn Hát 1,8A,"Thôn Hát 1, Xã hát Lừu Trạm Tấu, Yên bái"
+145,1522832878,Trần Ngân Hà,27/09/2010,Nữ,Tày,Thị trấn Trạm Tấu,Tổ dân phố số 1,8A,Thị trấn Trạm Tấu
+146,1562507683,Lò Thu Hằng,25/10/2010,Nữ,Thái,Xã Hát Lìu,Thôn hát 1,8A,Thôn Hát 1 - Hát Lừu - Trạm Tấu - Yên Bái
+147,1562519089,Giàng Trung Hiếu,19/03/2010,Nam,HMông,Xã Trạm Tấu,Km 14,8A,Km 17- Xã Trạm Tấu - Trạm Tấu - Yên Bái
+148,1502955362,Lê Khánh Hòa,23/08/2010,Nữ,Kinh,Xã Bản Công,Thôn Kháo Chu,8A,"Thôn Kháo Chu, Xã Bản Công"
+149,1503363287,Mùa A Hồ,17/10/2010,Nam,HMông,Xã Bản Mù,Thôn Mù Thấp,8A,Thôn Mù Thấp- Xã Bản Mù -Huyện Trạm Tấu -Tỉnh Yên Bái
+150,1562518226,Lò Thị Huệ,10/08/2010,Nữ,Thái,Xã Hát Lìu,Thôn Hát 1,8A,Thôn Hát 1 - Hát Lừu - Trạm Tấu - Yên Bái
+151,1562519090,Mùa A Hưởng,10/09/2010,Nam,HMông,Xã Trạm Tấu,Tấu Trên,8A,Tấu Trên- Xã Trạm Tấu - Trạm Tấu - Yên Bái
+152,1562507685,Thào Thị Ia,30/04/2010,Nữ,HMông,Xã Trạm Tấu,Km 21,8A,Km 21- Xã Trạm Tấu - Trạm Tấu - Yên Bái
+153,1502957155,Hờ A Kềnh,23/09/2010,Nam,HMông,Xã Bản Mù,Thôn Giàng La Pán,8A,Thô Giàng La Pán- Xã Bản Mù- Trạm Tấu
+154,1521157324,Lò Văn Khánh,01/01/2010,Nam,Thái,Xã Hát Lìu,Thôn Hát 2,8A,Thôn Hát 2 - Hát lừu- Trạm Tấu- Yên Bái
+155,1562519082,Vàng A Kiên,24/01/2010,Nam,HMông,Xã Trạm Tấu,Tấu Trên,8A,Tấu Trên-Xã Trạm Tấu- Trạm Tấu- Yên Bái
+156,1562519083,Phàng A Kỷ,24/02/2010,Nam,HMông,Xã Bản Công,Thôn Bản Công,8A,Thôn Bản Công-Bản Công- Trạm Tấu- Yên Bái
+157,1503107638,Lò Thị Tuyết Lan,02/05/2010,Nữ,Thái,Xã Hát Lìu,Thôn Lừu 2,8A,"TTổ dân phố số 3 thị trấn Trạm Tấu, huyện Trạm Tấu, tỉnh Yên bái"
+158,1503107641,Lò Thị Thùy Linh,15/04/2010,Nữ,Thái,Xã Hát Lìu,Bản Lừu,8A,Thôn Bản lừu - Xã Hát Lừu - Huyện Trạm Tấu - Tỉnh Yên Bái
+159,1503147527,Thào Công Mạnh,20/02/2010,Nam,HMông,Xã Pá Hu,Km 16,8A,Tà Tầu (Km 16)- Xã Pá Hu - Huyện Trạm Tấu - Tỉnh Yên Bái
+160,1562518247,Hờ Thị May,03/10/2010,Nữ,HMông,Xã Xà Hồ,Thôn Đầu cầu,8A,Thôn Đầu Cầu-Xà Hồ-Trạm Tấu-Yên Bái
+161,1503147528,Mùa A Mênh,16/06/2010,Nam,HMông,Xã Pá Hu,Thôn Háng Gàng,8A,Háng Gàng- Xã Pá Hu - Huyện Trạm Tấu - Tỉnh Yên Bái
+162,1503124615,Trần Diễm My,18/07/2010,Nữ,Kinh,Xã Chấn Thịnh,,8A,Thôn Lừu 1 - Xã Hát Lừu - Huyện Trạm Tấu - Tỉnh Yên Bái
+163,1503176320,Hoàng Bảo Nam,14/02/2010,Nam,Thái,Thị trấn Trạm Tấu,Tổ dân phố số 1,8A,"Thị trấn Trạm Tấu, huyện Trạm Táu, tỉnh yên Bái"
+164,1542743411,Hờ A Pó,15/02/2010,Nam,HMông,Xã Bản Mù,Thôn Giàng La Pán,8A,Giàng Lá Pán- Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái
+165,1502960952,Nguyễn Xuân Phúc,07/01/2010,Nam,Tày,Thị trấn Trạm Tấu,Tổ dân phố số 1,8A,"Tổ dân phố số 1 Thị trấn Trạm Tấu, huyện Trạm Tấu, tỉnh Yên Bái"
+166,1557480589,Thào Thị Mai Phương,19/03/2010,Nữ,HMông,Xã Bản Công,Thôn Sán Trá,8A,Thôn Bản Công- Xã Bản Công - Huyện Trạm Tấu - Tỉnh Yên Bái
+167,1503176333,Hoàng Mạnh Sáng,21/08/2010,Nam,Mường,Thị trấn Trạm Tấu,Tổ dân phố số 2,8A,Tổ dân phố số 2 Thị trấn Trạm Tấu
+168,1562518249,Giàng Thị Sơ,05/01/2010,Nữ,HMông,Xã Bản Mù,Thôn Khấu Ly,8A,Khấu Ly - Bản Mù - Trạm Tấu
+169,1503176336,Đỗ Viết Thọ,30/06/2010,Nam,Kinh,Thị trấn Trạm Tấu,Tổ dân phố số 1,8A,Tổ dân phố số 1 Thị trấn Trạm Tấu
+170,1562518231,Hoàng Thị Thùy Trang,12/04/2010,Nữ,Thái,Xã Hát Lìu,Thôn Hát 2,8A,Hát 2 - Hát Lìu - Trạm Tấu - Yên Bái
+171,1562518230,Lò Minh Tuyến,20/01/2010,Nam,Thái,Xã Hát Lìu,Hát 1,8A,Thôn Vũng Tầu - Hát Lừu - Trạm Tấu - Yên Bái
+172,1562518232,Lò Thị Vy,11/11/2010,Nữ,Thái,Xã Hát Lìu,Thôn Hát 2,8A,Thôn Hát 2 - Hát Lừu - Trạm Tấu - Yên Bái
+173,1502963253,Nguyễn Hà Vy,03/03/2010,Nữ,Dao,Thị trấn Trạm Tấu,Tổ dân phố số 3,8A,Thị trấn Trạm Tấu
+174,1521157400,Hoàng Thị Yến,10/07/2010,Nữ,Thái,Xã Hát Lìu,Hát 1,8A,"Thôn Vũng Tàu -Thôn Hát Lừu, huyện Trạm Tấu, tỉnh Yên Bái"
+175,1543043251,Giàng Thị Phương Anh,29/01/2010,Nữ,HMông,Xã Bản Công,Thôn Bản Công,8B,Xã Bản Công
+176,1562518234,Hờ A Bình,15/08/2010,Nam,HMông,Xã Xà Hồ,Thôn Háng Xê,8B,Xà Hồ-Trạm Tấu-Yên Bái
+177,1503191298,Sùng Thị Ca,08/04/2010,Nữ,HMông,Xã Bản Mù,Thôn Tà Ghênh,8B,Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái
+178,1562506150,Thào Thị Cầu,30/01/2010,Nữ,HMông,Xã Túc Đán,Thôn Tống Trong,8B,Thôn Tống Trong - Túc Đán - Trạm Tấu - Yên Bái
+179,1503147513,Mùa Thị Chu,25/04/2010,Nữ,HMông,Xã Pá Hu,Thôn Háng Thồ,8B,Háng Gàng  - Xã Pá Hu - Huyện Trạm Tấu - Tỉnh Yên Bái
+180,1503147132,Chớ Thị Công,23/05/2010,Nữ,HMông,Xã Xà Hồ,Thôn Sáng Pao,8B,Sáng Pao - Xà Hồ - Trạm Tấu
+181,1541979236,Tráng A Cường,10/10/2010,Nam,HMông,Xã Xà Hồ,Thôn Háng Gàng,8B,Sáng Pao - Xà Hồ - Trạm Tấu - YB
+182,1562519087,Giàng Thị Dề,11/01/2010,Nữ,HMông,Xã Trạm Tấu,Thôn Tấu Dưới,8B,Tấu Dưới - Trạm Tấu-Huyện Trạm Tấu - Tỉnh Yên Bái
+183,1562510100,Vàng Thị Dông,21/02/2010,Nữ,HMông,Xã Pá Lau,Thôn Pá Hu,8B,Pá Hu - Pá Hu - Huyện Trạm Tấu - Tỉnh Yên Bái
+184,1503054278,Phàng Thị Dủ,23/02/2010,Nữ,HMông,Xã Bản Công,Thôn Tà Xùa,8B,Thôn Tà Xùa - Xã Bản Công - Huyện Trạm Tấu - Tỉnh Yên Bái
+185,1503147117,Giàng Thị Dua,11/07/2010,Nữ,HMông,Xã Xà Hồ,Thôn Sáng Pao,8B,Sáng Pao - Xà Hồ - Trạm Tấu
+186,1562519088,Giàng Thị Dua,23/11/2010,Nữ,HMông,Xã Trạm Tấu,Thôn Tấu Dưới,8B,Thôn Tấu Dưới - Xã Trạm Tấu - Huyện Trạm Tấu - Tỉnh Yên Bái
+187,1503038584,Trang Thị Đơ,20/11/2010,Nữ,HMông,Xã Bản Mù,Thôn Mùa Cao,8B,Bản Mù - Trạm Tấu - Yên Bái
+188,1503046978,Sùng A Giang,25/05/2010,Nam,HMông,Xã Bản Mù,Thôn Tà Ghênh,8B,Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái
+189,1562518242,Thào A Hà,02/10/2010,Nam,HMông,Xã Trạm Tấu,Thôn Háng Tây,8B,Trạm Tấu - Trạm Tấu - Yên Bái
+190,1562518245,Giàng Hồng Khánh,10/10/2010,Nam,HMông,Xã Túc Đán,Thôn Háng Tầu,8B,Thôn Háng Tầu - Túc Đán - Trạm Tấu - Yên Bái
+191,1503202317,Trang A Khư,16/08/2010,Nam,HMông,Xã Bản Mù,ThônMù Thấp,8B,Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái
+192,1562518246,Hờ Thái Liên,15/06/2010,Nữ,HMông,Xã Xà Hồ,Thôn Trống Khua,8B,Xà Hồ-Trạm Tấu-Yên Bái
+193,1503363294,Cứ Thị Mò,23/08/2010,Nữ,HMông,Xã Bản Mù,Thôn Giàng La Pán,8B,Thôn Giàng La Pán - Xã Bản Mù - Huyện Trạm Tấu - Tỉnh yên Bái
+194,1562519092,Phàng A Phềnh Mông,14/03/2010,Nam,HMông,Xã Bản Công,ThônTà Xùa,8B,Thôn Tà Xùa - Xã Bản Công - Huyện Trạm Tấu - Tỉnh Yên Bái
+195,1557480586,Giàng A Cha Ninh,14/01/2010,Nam,HMông,Xã Bản Công,Thôn Bản Công,8B,Thôn Tà Chử - Xã Bản Công - Huyện Trạm Tấu - Tỉnh Yên Bái
+196,1557480585,Thào A Ninh,18/03/2010,Nam,HMông,Xã Bản Công,Thôn Sán Trá,8B,Thôn Tà Xùa - Xã Bản Công - Huyện Trạm Tấu - Tỉnh Yên Bái
+197,1562518228,Mùa Thị Nu,12/01/2010,Nữ,HMông,Xã Xà Hồ,Thôn Háng Xê,8B,Xà Hồ-Trạm Tấu-Yên Bái
+198,1523533768,Chớ A Páo,12/04/2010,Nam,HMông,Xã Xà Hồ,Thôn Sáng Pao,8B,Khấu Dê - Xà Hồ - Trạm Tấu - YB
+199,1503066889,Giàng Triệu Quân,15/12/2010,Nam,HMông,Xã Bản Công,Thôn Tà Xùa,8B,Thôn Tà Xùa - Xã Bản Công - Huyện Trạm Tấu - Tỉnh Yên Bái
+200,1503147534,Lò Văn Quyền,10/02/2010,Nam,Thái,Xã Pá Hu,Thôn Cang Dông,8B,Cang Dông- Xã Pá Hu - Huyện Trạm Tấu - Tỉnh Yên Bái
+201,1503363311,Sùng Thị Sâu,05/04/2010,Nữ,HMông,Xã Bản Mù,Thôn Háng Chi Mua,8B,Thôn Háng Chi Mua - Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái
+202,1562518250,Sùng Thị Sua,15/03/2010,Nữ,HMông,Xã Xà Hồ,Thôn Tà Đằng,8B,Xà Hồ-Trạm Tấu-Yên Bái
+203,1503191405,Sùng Thị Thê,10/10/2010,Nữ,HMông,Xã Bản Mù,Thôn Tà Ghênh,8B,Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái
+204,1503363316,Giàng A Thông,17/07/2010,Nam,HMông,Xã Bản Mù,Thôn Tàng Ghênh,8B,Thôn Tà Ghênh - Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái
+205,1503325321,Mùa A Thu,25/10/2010,Nam,HMông,Xã Bản Mù,Thôn Háng Chi Mua,8B,Xã Bản Mù - Huyện Trạm Tấu - Tỉnh Yên Bái
+206,1562518252,Sùng Thị Thương Thư,01/09/2010,Nữ,HMông,Xã Bản Mù,Thôn Tà Ghênh,8B,Tà Ghênh - Bản Mù - Trạm Tấu
+207,1562506151,Thào A Vảng,19/08/2010,Nam,HMông,Xã Pá Lau,Thôn Tàng Ghênh,8B,Pá Lau - Trạm Tấu - Yên Bái
+208,1562507694,Giàng A Xanh,13/08/2010,Nam,HMông,Xã Pá Lau,Thôn Tà Tầu,8B,Tà Tầu - Pá Hu - Trạm Tấu - Yên Bái
+209,1562506149,Vàng Thị Xú,09/01/2010,Nữ,HMông,Xã Túc Đán,ThônHáng Tầu,8B,Thôn Háng Tầu - Túc Đán - Trạm Tấu - Yên Bái
+210,1562510101,Vàng Thị Yến,11/12/2010,Nữ,HMông,Xã Trạm Tấu,Thôn Tấu Trên,8B,Tấu Trên - Trạm Tấu - Trạm Tấu - Yên Bái
+211,1555444704,Mùa A Chờ,15/09/2009,Nam,HMông,Xã Túc Đán,Thôn Pá Khoang,9A,"Thôn Pá Khoang,xã Túc Đán, huyện Trạm Tấu, tỉnh Yên Bái"
+212,1503189564,Trang Thị Công,20/11/2009,Nữ,HMông,Xã Trạm Tấu,Thôn Tấu Trên,9A,"Thôn Tấu Trên,xã Trạm Tấu,huyện Trạm Tấu,tỉnh Yên Bái"
+213,1503354344,Hờ Tiến Dũng,04/01/2009,Nam,HMông,Xã Bản Công,Thôn Tà Chử,9A,"Thôn Tà Chử, Xã Bản Công,huyện Trạm Tấu, tỉnh Yên Bái"
+214,1555444717,Đồng Thành Đạt,14/10/2009,Nam,Thái,Xã Hát Lìu,Thôn Hát 1,9A,"Thôn Hát 1,xã Hát Lừu,huyện Trạm Tấu, tỉnh Yên Bái"
+215,1555429504,Lò Nhật Đăng,01/11/2009,Nam,Thái,Xã Hát Lìu,Thôn Lừu 1,9A,"Thôn Lừu 1, xã Hát Lừu, huyện Trạm Tấu, tỉnh Yên Bái"
+216,1555429505,Giàng Thị Giang,01/02/2009,Nữ,HMông,Xã Bản Công,Thôn Bản Công,9A,"Thôn Bản Công, xã Bản Công, huyện Trạm Tấu, tỉnh Yên Bái"
+217,1555429506,Hoàng Thu Hoài,08/07/2009,Nữ,Thái,Xã Hát Lìu,Thôn Hát 1,9A,"Thôn Hát 1, xã Hát Lừu, huyện Trạm Tấu, tỉnh Yên Bái"
+218,1555427650,Lò Thị Hoài,26/02/2009,Nữ,Thái,Xã Hát Lìu,Thôn Hát 1,9A,"Thôn Hát 1, xã Hát Lừu, huyện Trạm Tấu, tỉnh Yên Bái"
+219,1503191636,Sùng Thị Mai Lan,27/02/2009,Nữ,HMông,Xã Trạm Tấu,Thôn Tấu Trên,9A,"Thôn Tấu Trên, xã Trạm Tấu, huyện Trạm Tấu,tỉnh Yên Bái"
+220,1555428086,Mùa A Lâm,28/01/2009,Nam,HMông,Xã Bản Mù,Thôn Háng Chi Mua,9A,"Thôn Háng Chi Mua, xã Bản Mù, huyện Trạm Tấu, tỉnh Yên Bái"
+221,1555427651,Mè Thị Khánh Linh,23/10/2009,Nữ,Thái,Xã Hát Lìu,Thôn Hát 1,9A,"Thôn Hát 1, xã Hát Lừu, huyện Trạm Tấu, tỉnh Yên Bái"
+222,1555444719,Phạm Hoàng Linh,27/06/2009,Nữ,Kinh,Thị trấn Trạm Tấu,Tổ dân phố số 1,9A,"Tổ dân phố số 1, thị trấn Trạm Tấu,huyện Trạm Tấu, tỉnh Yên Bái"
+223,1555427653,Mè Thị Châu Loan,15/01/2009,Nữ,Thái,Xã Hát Lìu,Thôn Hát 2,9A,"Thôn Hát 2, xã Hát Lừu, huyện Trạm Tấu, tỉnh Yên Bái"
+224,1555428087,Hảng Bảo Long,27/01/2009,Nam,HMông,Xã Bản Mù,Thôn Tàng Ghênh,9A,"Thôn Tà Ghênh, xã Bản Mù, huyện Trạm Tấu, tỉnh Yên Bái"
+225,1503147602,Sùng A Lù,30/06/2009,Nam,HMông,Xã Pá Hu,Thôn Pá Hu,9A,"Thôn Pá Hu, xã Pá Hu, huyện Trạm Tấu, tỉnh Yên Bái"
+226,1555429508,Vàng Thị Ly,10/03/2009,Nữ,HMông,Xã Pá Hu,Thôn Pá Hu,9A,"Thôn Pá Hu, xã Pá Hu, huyện Trạm Tấu, tỉnh Yên Bái"
+227,1555446832,Giàng A Mạnh,06/03/2009,Nam,HMông,Xã Xà Hồ,Thôn Sáng Pao,9A,"Thôn Sáng Pao , xã Xà Hồ, huyện Trạm Tấu, tỉnh Yên Bái"
+228,1555427655,Phạm Kim Ngân,17/11/2009,Nữ,Tày,Thị trấn Trạm Tấu,Tổ dân phố số 2,9A,"Tổ dân phố số 2, thị trấn Trạm Tấu, huyện Trạm Tấu, tỉnh Yên Bái"
+229,1555427656,Hoàng Thị Trường Nghiệp,24/09/2009,Nữ,Thái,Xã Hát Lìu,Thôn Hát 1,9A,"Thôn Hát 1,xã Hát Lừu, huyện Trạm tấu, tỉnh Yên Bái"
+230,1555429612,Mè Thị Minh Nhật,15/09/2009,Nữ,Thái,Thị trấn Trạm Tấu,Tổ dân phố số 3,9A,"Tổ dân phố số 3, thị trấn Trạm Tấu, huyện Trạm Tấu, tỉnh Yên Bái"
+231,1555428088,Giàng Thị Ninh,22/08/2009,Nữ,HMông,Xã Bản Công,Thôn Bản Công,9A,"Thôn Bản Công, xã Bản Công, huyện Trạm Tấu, tỉnh Yên Bái"
+232,1555429509,Hà Thị Kim Oanh,05/09/2009,Nữ,Thái,Xã Hát Lìu,Thôn Lừu 1,9A,"Thôn Lừu 1 xã Hát Lừu, huyện Trạm Tấu, tỉnh Yên Bái"
+233,1503147609,Thào Thị Phua,30/09/2009,Nữ,HMông,Xã Pá Hu,Thôn Tà Tầu,9A,"Thôn Tà Tầu, xã Pá Hu, huyện Trạm Tấu, tỉnh Yên Bái"
+234,1541979480,Chớ A Minh Phương,29/11/2009,Nam,HMông,Xã Xà Hồ,Thôn Sáng Pao,9A,"Thôn Sáng Pao, xã  Xà Hồ, huyện Trạm tấu, tỉnh Yên Bái"
+235,1555429510,Lò Thị Thu Phương,07/10/2009,Nữ,Thái,Thị trấn Trạm Tấu,Tổ dân phố số 3,9A,"Tổ dân phố số 3, thị trấn Trạm Tấu, huyện Trạm Tấu, tỉnh Yên Bái."
+236,1555429511,Thào A Quyền,12/05/2009,Nam,HMông,Xã Pá Lau,Thôn Pá Lau,9A,"Thôn Pá Lau, xã Pá Lau, huyện Trạm Tấu, tỉnh Yên Bái"
+237,1555428091,Hảng Quan Thanh,29/04/2009,Nam,HMông,Xã Bản Mù,Thôn Tà Ghênh,9A,"ThônTà Ghênh, xã Bản Mù, huyện Trạm Tấu, tỉnh Yên Bái"
+238,1555428092,Hờ A Thanh,18/03/2009,Nam,HMông,Xã Bản Mù,Thôn Giàng La Pán,9A,"Thôn Giàng La Pán, xã Bản Mù, huyện Trạm Tấu, tỉnh Yên Bái."
+239,1555427659,Đinh Phương Thảo,26/04/2009,Nữ,Mường,Thị trấn Trạm Tấu,Tổ dân phố số 1,9A,"Tổ dân phố số 1, thị trấn Trạm Tấu, huyện Trạm Tấu, tỉnh Yên Bái"
+240,1555429512,Lường Anh Thư,07/07/2009,Nữ,Thái,Xã Hát Lìu,Thôn Hát 1,9A,"Thôn Hát 1, xã Hát Lừu, huyện Trạm Tấu, tỉnh Yên Bái"
+241,1541979407,Giàng A Tỉnh,10/11/2009,Nam,HMông,Xã Xà Hồ,Thôn Sáng Pao,9A,"Thôn Sáng Pao, xã Xà Hồ, huyện Trạm Tấu, tỉnh Yên Bái"
+242,1503203106,Giàng Thị Huyền Trang,14/03/2009,Nữ,HMông,Xã Trạm Tấu,Thôn Tấu Dưới,9A,"Thôn Tấu Dưới, xã Trạm Tấu, huyện Trạm Tấu, tỉnh Yên Bái"
+243,1503391077,Giàng A Tủa,22/03/2009,Nam,HMông,Xã Bản Công,Thôn Bản Công,9A,"Thôn Bản Công, xã Bản Công, huyện Trạm Tấu, tỉnh Yên Bái"
+244,1555427660,Mè Đức Tuấn,14/01/2009,Nam,Thái,Xã Hát Lìu,Thôn Lừu 1,9A,"Lừu 1, xã Hát Lừu, huyện Trạm Tấu, tỉnh Yên Bái"
+245,1555444721,Nguyễn Khắc Thắng,28/12/2009,Nam,Tày,Thị trấn Trạm Tấu,Tổ dân phố số 3,9A,"Tổ dân phố số 2, thị trấn Trạm Tấu, huyện Trạm tấu, tỉnh Yên Bái"
+246,1555444722,Hà Phương Thúy,06/11/2009,Nữ,Tày,Thị trấn Trạm Tấu,Tổ dân phố số 1,9A,"Tổ dân phố số 1, thị trấn Trạm tấu, huyện Trạm Tấu, tỉnh Yên Bái"
+247,1555445462,Lường Thị Quỳnh Anh,25/12/2009,Nữ,Khơ-mú,Xã Túc Đán,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Pa Te-Túc Đán
+248,1555444703,Trang A Chinh,15/05/2009,Nam,HMông,Xã Bản Mù,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Mù Cao-Bản Mù
+249,1503147620,Mùa A Chỉnh,04/07/2009,Nam,HMông,Xã Pá Hu,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Háng Gàng-Pá Hu
+250,1503147591,Mùa Thị Chua,29/04/2009,Nữ,HMông,Xã Pá Hu,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Háng Gàng-Pá Hu
+251,1555444705,Thào Thị Dở,21/04/2009,Nữ,HMông,Xã Pá Lau,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Pá Lau-Pá Lau
+252,1555444706,Mùa Thị Dùa,26/09/2009,Nữ,HMông,Xã Bản Mù,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Khấu Ly-Bản Mù
+253,1555444707,Giàng A Đông,26/09/2009,Nam,HMông,Xã Bản Mù,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Mù Thấp-Bản Mù
+254,1555444708,Giàng A Gia,16/03/2009,Nam,HMông,Xã Xà Hồ,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Tà Đằng-Xà Hồ
+255,1555446825,Thào A Gia,05/05/2009,Nam,HMông,Xã Pá Lau,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Tàng Ghênh-Pá Lau
+256,1503391841,Giàng A Giông,01/02/2009,Nam,HMông,Xã Bản Công,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Tà Xùa-Bản Công
+257,1555444709,Mùa A Giông,16/09/2009,Nam,HMông,Xã Túc Đán,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Háng Tầu-Túc Đán
+258,1555446827,Mùa Đức Hải,01/10/2009,Nam,HMông,Xã Xà Hồ,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Trống Khua-Xà Hồ
+259,1555444710,Hảng A Hàng,20/05/2009,Nam,HMông,Xã Túc Đán,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Tống Ngoài-Túc Đán
+260,1541979357,Giàng A Hảng,28/09/2009,Nam,HMông,Xã Xà Hồ,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Sáng Pao - Xà Hồ
+261,1555446829,Giàng Thị Hoa,07/09/2009,Nữ,HMông,Xã Pá Lau,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Háng Tây-Pá Lau
+262,1555444711,Lại Huy Khánh,20/05/2009,Nam,Kinh,Xã Bản Công,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Tà Xùa-Bản Công
+263,1555444712,Trang A Ký,16/02/2009,Nam,HMông,Xã Bản Mù,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Mù Cao-Bản Mù
+264,1541979472,Vàng A Kỷ,23/04/2009,Nam,HMông,Xã Xà Hồ,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Sáng Pao - Xà Hồ
+265,1555447227,Vì Văn Luyến,11/02/2009,Nam,Khơ-mú,Xã Túc Đán,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Pa Te-Túc Đán
+266,1503191640,Giàng A Lưu,24/04/2009,Nam,HMông,Xã Trạm Tấu,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Km14+17-Trạm Tấu
+267,1555445468,Mè Văn Minh,20/01/2009,Nam,Khơ-mú,Xã Túc Đán,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Pa Te-Túc Đán
+268,1503203064,Giàng A Nỏ,25/12/2009,Nam,HMông,Xã Trạm Tấu,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Tấu Dưới-Trạm Tấu
+269,1541979373,Giàng A Pua,26/11/2009,Nam,HMông,Xã Xà Hồ,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Sáng Pao - Xà Hồ
+270,1503147611,Sùng A Rùa,28/03/2009,Nam,HMông,Xã Pá Hu,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Cang Dông-Pá Hu
+271,1555444713,Sùng A Sang,23/03/2009,Nam,HMông,Xã Xà Hồ,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Tà Đằng-Xà Hồ
+272,1503203078,Mùa A Sàng,22/11/2009,Nam,HMông,Xã Trạm Tấu,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Tấu Trên-Trạm Tấu
+273,1541979337,Hờ A Sèo,19/03/2009,Nam,HMông,Xã Xà Hồ,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Trống Khua-Xà Hồ
+274,1555446837,Giàng A Sông,04/01/2009,Nam,HMông,Xã Pá Lau,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Pá Lau-Pá Lau
+275,1555447228,Hờ Thị Sông,10/08/2009,Nữ,HMông,Xã Xà Hồ,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Trống Khua-Xà Hồ
+276,1541979381,Giàng Thị Sơ,05/04/2009,Nữ,HMông,Xã Xà Hồ,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Sáng Pao - Xà Hồ
+277,1555444714,Phàng A Súa,13/07/2009,Nam,HMông,Xã Bản Công,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Bản Công-Bản Công
+278,1555428090,Giàng A Thái,25/05/2009,Nam,HMông,Xã Bản Mù,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Tà Ghênh-Bản Mù
+279,1503390561,Hảng A Tỉnh,30/01/2009,Nam,HMông,Xã Bản Công,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Kháo chu-Bản công
+280,1555444715,Thào A Trà,19/10/2009,Nam,HMông,Xã Pá Lau,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Tàng Ghênh-Pá Lau
+281,1555444716,Trang A Tu,13/06/2009,Nam,HMông,Xã Bản Mù,Tổ dân phố số 1 thị trấn Trạm Tấu huyện Trạm Tấu,9B,Giàng La Pán-Bản Mù
+
